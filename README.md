@@ -10,7 +10,7 @@ Our code is split up into four folders:
 
 ## DATA
 This folder consists of the following jupyter notebooks
-1. [**`[FIN] outlet_metadata_construction.ipynb`**](https://github.com/poonamsahoo/newswire-graphs/blob/main/DATA/%5BFIN%5D%20outlet_metadata_construction.ipynb)  
+1. [**`[FIN] outlet_metadata_construction.ipynb`**](DATA/%5BFIN%5D%20outlet_metadata_construction.ipynb)  
    Constructs and compiles metadata for newspaper outlets. This includes processing details like city, state, and location of newspaper outlets for further analysis.
 
 2. **`[FIN] webscraping political ground truths.ipynb`**  
