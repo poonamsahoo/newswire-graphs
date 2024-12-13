@@ -43,8 +43,8 @@ This folder consists of the following Jupyter notebooks:
 3. [**`[FIN] eval_homo.ipynb`**](EVAL/%5BFIN%5D%20eval_homo.ipynb)  
    Evaluates the performance of models trained on homogeneous graphs for the Political Ideology Detection experiment. This notebook includes performance metrics such as accuracy, F1 score, AUC, etc.
 
-4. [**`[FIN] Create ROC-AUC Graphs.ipynb`**](EVAL/%5BFIN%5D%20Create%20ROC-AUC%20Graphs.ipynb)  
-   Generates ROC-AUC graphs to evaluate model performance. This notebook helps visualize and compare classifier effectiveness.
+4. [**`[FIN] Create ROC-AUC Graphs.ipynb`**](EVAL/%5BFIN%5D%20Create%20AUC-ROC%20Graphs.ipynb)  
+   Generates AUC-ROC graphs to evaluate model performance. This notebook helps visualize and compare classifier effectiveness.
 
 5. [**`[FIN] TSNE and HDBSCAN Clustering.ipynb`**](EVAL/%5BFIN%5D%20TSNE%20and%20HDBSCAN%20Clustering.ipynb)  
    Analysis and visualization of newspaper node embeddings. Performs dimensionality reduction using t-SNE and clusters data using HDBSCAN.
